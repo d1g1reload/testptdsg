@@ -1,0 +1,28 @@
+.bg-custom {
+    background-color: #092F51 !important;
+}
+
+.text-custom {
+    color: #092F51 !important;
+}
+
+.indicator-primary.indicator:before {
+    background-color: #092F51 !important;
+}
+
+.btn-outline-custom {
+    border-color: #7CB9CB !important;
+}
+
+.nav-lb-tab .nav-item .nav-link.active,
+.nav-lb-tab .nav-item .nav-link:hover {
+    background-color: transparent;
+    border-bottom: 2px solid #092F51 !important;
+    color: #092F51 !important;
+}
+
+.btn-play {
+    background-color: var(--gk-white);
+    color: #092F51 !important;
+    transition: .2s ease;
+}
